@@ -1,8 +1,8 @@
-# Hi there! 
-- 👋 My name is João
-- 👨‍💻 I'm pursuing a Bachelor in Software Engineering
-- 💞️ I’m interested in Machine Learning and Computer Vision fields.
-- 🌱 I’m currently learning Python and Java.
-- 🤖 Studying some Math/ML/DS libraries in my free time as Numpy, Pandas, OpenCV, Pytorch, TensorFlow and others.
-- 👀 I’m looking to collaborate on AI projects
+# Hello, there! 
+- 👋 I'm João Gabriel
+- 👨‍💻 I'm pursuing a Bachelor in Software Engineering at Federal University of Goiás (UFG)
+- 💞️ I’m interested in Machine Learning/Deep Learning and Computer Vision fields.
 - 📑 All my social media is @mentejoao, so you can reach me in any other! ;)
+
+## Currently Learning 🌱
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,opencv,fastapi,docker,cpp,androidstudio&theme=dark&perline=15" alt="My Skills" /></a>
